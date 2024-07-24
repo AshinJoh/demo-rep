@@ -6,5 +6,5 @@ Some description!
 
 This is ashin.
 
-##Local Development
+# Local Development
 1. Open index.html in your browser
